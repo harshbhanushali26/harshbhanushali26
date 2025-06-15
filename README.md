@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Cafe Management System**
 
-- 🌱 I’m currently learning **AI/ML and**
+- 🌱 I’m currently learning **AI/ML**
 
 - 💬 Ask me about **Python**
 
