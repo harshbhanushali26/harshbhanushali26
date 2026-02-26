@@ -1,43 +1,115 @@
-<h1 align="center">Hi 👋, I'm Harsh Bhanushali</h1>
-<h3 align="center">🚀🎯 Python & AI/ML Developer | Passionate about building practical solutions and learning continuously. </h3>
-
----
-
-## 🚀 About Me  
-- 🔭 Currently working on: **Expense Manager CLI** & **BrewOps Café System**  
-- 📚 Learning path: **AI/ML, Python Projects, and Clean Software Design**  
-- 🌱 Exploring: **NumPy, Pandas, Data Analysis, and Machine Learning fundamentals**  
-- 🎯 Goal: Build a strong portfolio & step into AI/ML development roles  
-
----
-
-## 🛠️ Tech Stack  
-- **Languages:** Python, C#, SQL  
-- **Libraries/Tools:** NumPy, Pandas, Matplotlib  
-- **Other Skills:** Git/GitHub, CLI Projects, Data Analysis, Problem Solving  
-
----
-
-## 📈 GitHub Stats  
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshbhanushali26&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshbhanushali26&layout=compact&theme=radical)  
-
----
-
-## 🌐 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/harshbhanushali0709/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh bhanushali" height="30" width="40" /></a>
-</p>
-<p align="left">
-<a href="mailto:harshbhanu0709@gmail" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="email" height="30" width="40" />
-</a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=Harsh%20Bhanushali&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+Systems+Builder;Designing+Tool-Based+Intelligent+Agents;Exploring+RAG+and+LangChain;Building+Modular+Python+Architectures" />
+</p>
 
-<p align="left">  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=harshbhanushali26&color=blue&style=flat-square)
+## 🧠 Profile
 
+I build structured AI systems focused on intelligent agents, modular design, and real-world automation.
 
+My work centers around building reusable execution frameworks, financial AI assistants, and retrieval-driven systems that scale beyond experiments.
+
+---
+
+## 🚀 Current Focus
+
+- **Finance Agent** — AI-powered financial assistant with tool orchestration
+- **Agent Engine** — Planner → Validator → Executor architecture
+- **RAG Systems** — Embedding → Retrieval → Controlled Generation pipelines
+- **LangChain** — Framework-driven agent experimentation
+- Clean, modular Python system design
+
+---
+
+## 🏗️ Featured Systems
+
+### 💰 Finance Agent
+AI-driven financial assistant built on a custom agent framework.
+
+- Modular tool execution layer  
+- Structured output validation  
+- Designed for portfolio analytics & automation  
+- Future-ready for RAG integration  
+
+---
+
+### 🤖 Agent Engine
+Core execution framework powering intelligent agents.
+
+- Tool-calling architecture  
+- Planner → Validator → Executor workflow  
+- Structured response control  
+- Extensible for multi-agent systems  
+
+---
+
+### 🧾 Expense Tracker (Modular Architecture)
+Structured financial tracking system.
+
+- Class-based transaction modeling  
+- CSV / PDF / JSON export engine  
+- Aggregated monthly & filtered analytics  
+- Refactored for scalability  
+
+---
+
+### ☕ BrewOps Café System
+Operational system with analytics & reporting.
+
+- 40+ structured menu items  
+- Categorized ID architecture  
+- Admin dashboard with daily/monthly insights  
+- Designed for inventory expansion  
+
+---
+
+## ⚙️ Technical Stack
+
+### Core
+- Python
+- Git & GitHub
+
+### AI & Data
+- LangChain
+- NumPy
+- Pandas
+- Matplotlib
+- scikit-learn (Foundations)
+
+### Architecture
+- Modular Design
+- Tool Abstraction
+- Structured Output Validation
+- Data Modeling
+
+---
+
+## 🎯 Direction
+
+- Build production-ready AI agents  
+- Implement full RAG pipelines  
+- Deploy intelligent financial automation systems  
+- Contribute to AI tooling ecosystems  
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshbhanushali0709/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:harshbhanu0709@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=70&section=footer"/>
+</p>
