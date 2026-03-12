@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-harshbhanushali0709-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&to=harshbhanushali26@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://mail.google.com/mail/?view=cm&to=harshbhanu0709@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-harshbhanu0709-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
