@@ -39,7 +39,7 @@ My work spans **RAG pipelines** with ChromaDB and SentenceTransformer, **cost-aw
 | 💰 **Finance Agent (CLI)** | Standalone CLI finance agent powered by Groq — 8 natural-language commands, per-category budget tracking, fully offline. Built on Expense Tracker's OOP foundation. | 🔄 In Progress |
 | 🎯 **Career AI Agent** | Upload resume + job link → get job fit analysis, resume improvements, interview tips & coding questions. Phase-wise execution pipeline. | 🚧 Planning |
 | 🔬 **Research Agent** | Autonomous AI agent with human-in-the-loop control for research tasks and structured output generation. | 🚧 Planning |
-| 📄 **hArI** | RAG-based PDF insights system — upload PDFs via Streamlit UI, ask questions, get grounded answers. Pure Python + ChromaDB + Groq. | 🚧 Planning |
+| 📄 **hArI** | RAG-based PDF & CSV insights system — upload PDFs and CSVs via Streamlit UI, ask questions, get grounded answers. Pure Python + ChromaDB + Groq. | 🔄 In Progress |
 
 ---
 
