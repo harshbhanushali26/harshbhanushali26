@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Agentic+AI+Developer;Building+Autonomous+AI+Systems+from+Scratch;RAG+Pipelines+%7C+LLM+Orchestration;Cost-Aware+AI+Design+in+Python;Groq+%7C+Gemini+%7C+ChromaDB+%7C+Streamlit" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Agentic+AI+Developer;RAG+Pipelines+%7C+LLM+Orchestration;Multi-Agent+Systems+%7C+Cost-Aware+AI;Groq+%7C+Gemini+%7C+ChromaDB+%7C+Streamlit;Open+to+AI+Engineer+Roles" />
 </p>
 
 <p align="center">
@@ -24,26 +24,69 @@
 
 ## 🧠 About Me
 
-I build autonomous AI systems from scratch in Python — no LangChain, no AutoGen, full control over every layer.
+I build autonomous AI systems in Python — deliberate architecture, minimal dependencies, full control over every layer.
 
-My work spans **RAG pipelines** with ChromaDB and SentenceTransformer, **cost-aware LLM orchestration** using Gemini API and Groq, deterministic query routing, and modular agent architecture. I also have hands-on production engineering experience — shipped 3 enterprise web applications during my internship, improving workflow efficiency by 30%.
+My work spans **RAG pipelines** with ChromaDB and SentenceTransformer, **multi-agent orchestration** with complexity-based model routing, cost-aware LLM APIs (Groq, Gemini), and modular agent design. I also have hands-on production engineering experience — shipped 3 enterprise web applications during my internship, improving workflow efficiency by 30%.
 
-> *"I don't use frameworks as a crutch — I build from scratch so I actually understand what's happening."*
+> *"I don't use frameworks as a crutch — I use them deliberately, only where they earn their place."*
+
+---
+
+## 🚀 Shipped Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🧠 **[hArI](https://github.com/harshbhanushali26/hArI)** | RAG document intelligence app — upload PDFs, ask questions, get grounded answers with source citations. Production-deployed. | Groq · ChromaDB · SentenceTransformer · Streamlit |
+| 🔬 **[Multi-Agent Research Pipeline](https://github.com/harshbhanushali26/research-pipeline)** | CLI pipeline with 6 specialized agents — Search, Scrape, Summarize, Critique, Synthesize, Supervise. Complexity-based model routing with Groq/Gemini fallback. | Groq · Gemini · DuckDuckGo · Rich |
+| 🤖 **[AI Agent Engine](https://github.com/harshbhanushali26/ai-agent-engine)** | 4-layer autonomous agent — cache → pattern router → RAG → LLM. ~80% queries resolved with 0 LLM calls. Per-session cost ~$0.0005. | Gemini · ChromaDB · SentenceTransformer |
+| 💰 **[Finance Agent CLI](https://github.com/harshbhanushali26/expense-tracker)** | 8 natural-language commands for personal finance — budgets, summaries, dashboards. Fully offline beyond Groq API. | Groq · Python · OOP · JSON |
+| 🎯 **[NextSteps](https://github.com/harshbhanushali26/nextsteps)** | Career planning AI app — upload resume + JD/URL → gap analysis, skill mapping, personalized roadmap. | Groq · Tavily · Python |
 
 ---
 
-## 🔨 Currently Building
 
-| Project | Description | Status |
-|--------|-------------|--------|
-| 💰 **Finance Agent (CLI)** | Standalone CLI finance agent powered by Groq — 8 natural-language commands, per-category budget tracking, fully offline. Built on Expense Tracker's OOP foundation. | 🔄 In Progress |
-| 🎯 **Career AI Agent** | Upload resume + job link → get job fit analysis, resume improvements, interview tips & coding questions. Phase-wise execution pipeline. | 🚧 Planning |
-| 🔬 **Research Agent** | Autonomous AI agent with human-in-the-loop control for research tasks and structured output generation. | 🚧 Planning |
-| 📄 **hArI** | RAG-based PDF & CSV insights system — upload PDFs and CSVs via Streamlit UI, ask questions, get grounded answers. Pure Python + ChromaDB + Groq. | 🔄 In Progress |
-
----
 
 ## 🏗️ Featured Projects
+
+
+### 🧠 hArI — RAG Document Intelligence
+Production-deployed app for intelligent PDF Q&A with grounded answers and source citations.
+
+- Cosine similarity retrieval with `SCORE_THRESHOLD=0.35` — no hallucinated sources
+- Intent detection routes queries: conversational → RAG → LLM fallback
+- Deduped source citations with chunk-level cosine filtering
+- `strip_thinking()` post-processing for clean, structured responses
+- Stack: Groq (llama-4-scout-17b), ChromaDB, SentenceTransformer (all-MiniLM-L6-v2), PyMuPDF, Streamlit, uv
+
+🔗 [View Repository](https://github.com/harshbhanushali26/hArI)
+
+---
+
+### 🔬 Multi-Agent Research Pipeline
+CLI-based autonomous research system with 6 specialized agents and quota-aware model routing.
+
+- Supervisor → Search → Scrape → Summarize → Critique → Synthesize pipeline
+- Complexity-based routing: Groq (llama-3.3-70b) primary, Gemini (gemini-3-flash-preview) fallback
+- Human-in-the-loop checkpoints with Rich terminal UI
+- Stack: Groq, Gemini, DuckDuckGo, Rich, Python
+
+🔗 [View Repository](https://github.com/harshbhanushali26/research-pipeline)
+
+---
+
+### 🎯 NextSteps — Career Path AI
+AI-powered career planning app — paste a resume and JD or URL, get a full gap analysis and roadmap.
+
+- Parses unstructured resume + job formats with no hardcoded assumptions
+- Delivers skill mapping, gap analysis, and personalized roadmap in under 5–8 minutes
+- Clean separation: parsing → analysis → output generation
+- Stack: Groq, Tavily, Python
+
+🔗 [View Repository](https://github.com/harshbhanushali26/NextSteps)
+
+---
+
+
 
 ### 🤖 AI Agent Engine
 Production-grade autonomous agent built entirely from scratch in Python.
@@ -57,7 +100,10 @@ Production-grade autonomous agent built entirely from scratch in Python.
 
 🔗 [View Repository](https://github.com/harshbhanushali26/ai-agent-engine)
 
+
+
 ---
+
 
 ### 💰 Finance Agent (CLI)
 Standalone CLI finance agent powered by Groq — switched from Gemini after hitting quota limits, found better speed and reliability for this use case.
@@ -140,12 +186,12 @@ Modular Python + Rich CLI system for full café operations.
       <sub>Stateful multi-agent workflows</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Agentic_Patterns-0ea5e9?style=for-the-badge&logoColor=white"/><br/>
-      <sub>Human-in-the-loop systems</sub>
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/><br/>
+      <sub>Workflow automation</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/><br/>
-      <sub>AI app interfaces</sub>
+      <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white"/><br/>
+      <sub>Local LLM inference</sub>
     </td>
   </tr>
 </table>
