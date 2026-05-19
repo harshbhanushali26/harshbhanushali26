@@ -114,33 +114,10 @@ Standalone CLI finance agent powered by Groq — switched from Gemini after hitt
 - Fully offline storage — no external dependency beyond Groq API
 - Stack: Python, Groq API, OOP, JSON storage, CLI
 
-🔗 [View Repository](https://github.com/harshbhanushali26/expense-tracker)
+🔗 [View Repository](https://github.com/harshbhanushali26/finance-agent)
 
 ---
 
-### 🧾 Expense Tracker
-Multi-user expense tracker with secure auth and offline JSON storage.
-
-- Handles **1,000+ records** efficiently without a database
-- **40% code complexity reduction** via OOP design patterns
-- Daily/monthly analytics with real-time dashboards
-- Foundation reused entirely for Finance Agent — zero duplication
-
-🔗 [View Repository](https://github.com/harshbhanushali26/expense-tracker)
-
----
-
-### ☕ BrewOps — Café Management CLI
-Modular Python + Rich CLI system for full café operations.
-
-- 9 independent modules: auth, menu, orders, analytics, session management
-- Secure password hashing/salting + **30-min auto session timeout** with 2-level warnings
-- 7+ operational features across admin & customer portals
-- Full order lifecycle + daily/monthly analytics dashboards
-
-🔗 [View Repository](https://github.com/harshbhanushali26/BrewOps)
-
----
 
 ## ⚙️ Technical Stack
 
@@ -150,6 +127,8 @@ Modular Python + Rich CLI system for full café operations.
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
 ![SentenceTransformer](https://img.shields.io/badge/SentenceTransformer-6C63FF?style=flat-square&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-0ea5e9?style=flat-square&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-8B5CF6?style=flat-square&logoColor=white)
 ![LLM Orchestration](https://img.shields.io/badge/LLM_Orchestration-1D9E75?style=flat-square&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
